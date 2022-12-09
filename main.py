@@ -9,7 +9,7 @@ print(curpath)
 sys.path.append(curpath)
 
 
-# if __name__ == "__main__":
-    # train_model()
-    # test_model()
+if __name__ == "__main__":
+    train_model()
+    test_model()
 
